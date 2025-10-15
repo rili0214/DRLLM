@@ -1,0 +1,11 @@
+openai
+python-dotenv
+numpy
+requests
+termcolor
+mcp
+llama-index
+llama-index-embeddings-openai
+llama-index-llms-openai
+llama-index-postprocessor-cohere-rerank
+unstructured[md]
